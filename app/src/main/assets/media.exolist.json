@@ -1,0 +1,144 @@
+[
+  {
+    "name": "HLS",
+    "samples": [
+      {
+        "name": "Apple 4x3 basic stream",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+        "image": "http://dummyimage.com/715x350/105B19/907ECC",
+        "description": "sterilizer span ticks continuity hubs procurement vision eggs backups cries gap iron conferences torpedo government catchers restaurant destroyers attribute counsel echo overcurrent classes trip environments forecastle giants conspiracies suppression things rope plans bow blots rescuers incline"
+      },
+      {
+        "name": "Apple 16x9 basic stream",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+        "image": "http://dummyimage.com/609x750/0D2637/BCE8DA",
+        "description": "alarm hull wishes flesh surrender others street cliffs chain milestone audit agreement deployment"
+      },
+      {
+        "image": "http://dummyimage.com/291x515/D44707/BB4AD9",
+        "description": "explanation cable control electricians thousand capitals classification conn preserver thirds quartermaster puffs countermeasure armful need discretion similarity fists rust mouths attempts giants dives parameters admirals destroyers alternatives exit paints cab thirteen bolts breaches allowances certificate trails linkage launch contacts moss salts elbows tomorrows",
+        "name": "Apple master playlist advanced (TS)",
+        "uri": "https://tungsten.aaplimg.com/VOD/bipbop_adv_example_v2/master.m3u8"
+      },
+      {
+        "image": "http://dummyimage.com/341x220/960790/1188C2",
+        "description": "cavities launch officers lasers pound meridian accuracy",
+        "name": "Apple master playlist advanced (fMP4)",
+        "uri": "https://tungsten.aaplimg.com/VOD/bipbop_adv_fmp4_example/master.m3u8"
+      },
+      {
+        "image": "http://dummyimage.com/219x363/8257D4/3E0A16",
+        "description": "restraints sod detention alternation pits instance spindles screwdrivers smile worksheet amusements stub jams breezes bush engine wash official talker shaft states",
+        "name": "Apple TS media playlist",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8"
+      },
+      {
+        "image": "http://dummyimage.com/383x512/CA7043/0405C8",
+        "description": "eye calorie blot airfields certificate conjunction dyes mixture delegate searches junctions age explanation guards cots disks defeat carloads adjective buoy dusts swell customers barrels",
+        "name": "Apple AAC media playlist",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8"
+      },
+      {
+        "image": "http://dummyimage.com/669x592/BA9F00/6935DB",
+        "description": "speed trunks seasoning measure interchanges duplicate rinse arguments horsepower airships topic ingredients bather blaze salvage preparations beliefs disassemblies tactic signalers preliminaries glands messenger checkpoint revision lot web loudspeakers submarined master twig knocks customers electrolyte recipients admission wear increment purposes hardness inductance classes detection daybreak",
+        "name": "Apple ID3 metadata",
+        "uri": "http://devimages.apple.com/samplecode/adDemo/ad.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Misc",
+    "samples": [
+      {
+        "image": "http://dummyimage.com/509x349/2D72BE/E85E73",
+        "description": "drives automobile nozzles transit calculation keys custody seesaw papers slice lettering weathers contribution resistances survey thyristor citizen hinge runaways emitter clock answers custodian joints raps threader sewage greases cramps bend storage pascal chairpersons vicinity barge",
+        "name": "Dizzy",
+        "uri": "http://html5demos.com/assets/dizzy.mp4"
+      },
+      {
+        "image": "http://dummyimage.com/308x330/EF4E61/31C043",
+        "description": "graphs inventory reconfigurations fighting worries camps standards twirls overlay probabilities controls argument ditch bristle radiator fives signals laboratories subjects rose submissions loads lifetime gangways enemy verse organization knees life wood lenses fits beliefs utility traps clang drinks hose runways copy lives merchants deficiencies energizers operation carbons stare stings bearings properties",
+        "name": "Apple AAC 10s",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear0/fileSequence0.aac"
+      },
+      {
+        "image": "http://dummyimage.com/501x214/E7D514/C92953",
+        "description": "gaskets tablet shelves knees advertisements kilograms peck forces varactor formation letterhead visitor doors relation humor instructor committee need study times alternations jacks counselor pointers currents owner boxcars learning conjunctions inference paintings thyristor purge thanks couple trunks frame rehabilitation graph slashes presumption disposal chapter",
+        "name": "Apple TS 10s",
+        "uri": "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/fileSequence0.ts"
+      },
+      {
+        "image": "http://dummyimage.com/573x260/16CE3F/63B2AB",
+        "description": "selections handlers pairs trap limp signature mosses science multiplications saying community dwell hairs update location backup serial civilian grip railways army dictionary physics acronym dissipation pits isolation kilogram debits rag goals maximum fares servant",
+        "name": "Android screens (Matroska)",
+        "uri": "http://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv"
+      },
+      {
+        "image": "http://dummyimage.com/562x233/588C71/D80F22",
+        "description": "cake minority rains crust crack convulsions drugs elapse defection hums",
+        "name": "Big Buck Bunny (MP4 Video)",
+        "uri": "http://redirector.c.youtube.com/videoplayback?id=604ed5ce52eda7ee&itag=22&source=youtube&sparams=ip,ipbits,expire,source,id&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=513F28C7FDCBEC60A66C86C9A393556C99DC47FB.04C88036EEE12565A1ED864A875A58F15D8B5300&key=ik0"
+      },
+      {
+        "image": "http://dummyimage.com/731x373/08DA63/D7C20F",
+        "description": "property hoop bowls wind hips submission precedence keyboard jacks accruement august keys tricks scab tosses rifling bureaus award currency slot pleads heels fridays cords ax zeros illustration primes version humps resistance roofs vibration subtotals",
+        "name": "Screens 360P (WebM,VP9,No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-vp9-360.webm"
+      },
+      {
+        "image": "http://dummyimage.com/567x255/35814A/CE13D3",
+        "description": "meat cockpit argument generator horsepower industry jumpers cart vehicles format shipping abuse implementations feeder trailers",
+        "name": "Screens 480p (FMP4,H264,No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4"
+      },
+      {
+        "image": "http://dummyimage.com/328x482/7BEEFF/89B373",
+        "description": "nods flanges sunshine cheaters consequence hoop cosal deliveries convenience budget improvements weed straighteners foot bumps fabrications expansions abbreviations card initiator meats inlets mercury container wiggles scabs terminations amusement shout sunlight tub couple recombination basis article inspection verse jackbox retrieval worth steam movements ear months quartermaster failures residue puncture increments functions grams safety nurse mistake wagons jurisdiction outlines similarities",
+        "name": "Screens 1080p (FMP4,H264, No Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+      },
+      {
+        "image": "http://dummyimage.com/242x360/B1F54F/C51268",
+        "description": "margins speeders tastes wires diagram subroutines grains dynamometer coxswain cheats bottoms walls remainders vapor tabulations collectors rigs cores divers pushup sample meeting pulls rotors stumps overvoltages investigations staffs structures glances helicopters hashmarks liberties sap rotor purpose magnets fuse bigamy fluids pistols puncture crystal secret legs",
+        "name": "Screens (FMP4,AAC Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/audio-141.mp4"
+      },
+      {
+        "image": "http://dummyimage.com/204x729/5A2582/FA1CD3",
+        "description": "vision joints tender lift meanings mustard regrets video fears insanity automation present applications defection disks reservists throttles butts precedence details chases chocks cuffs focus ladder warships mates locks canvas port",
+        "name": "Google Play (MP3 Audio)",
+        "uri": "http://storage.googleapis.com/exoplayer-test-media-0/play.mp3"
+      },
+      {
+        "image": "http://dummyimage.com/455x521/804996/95A7EC",
+        "description": "armament slinging bat joints lining authorizations entrance vacuum thirteen habits amperage events resistances promotion generations skirt mistrials blots troubles figures stoppers jellies leakage horsepower substitutes user sunday pits dew offers software harnesses vine copper fists helm balloons grip formulas bulk canister certificate",
+        "name": "Google Play (Ogg/Vorbis Audio)",
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/ogg/play.ogg"
+      },
+      {
+        "image": "http://dummyimage.com/391x223/9C6697/FB450D",
+        "description": "lifts rotor compliances manners job restraints eddies answers bond macros agreements pans corrections safety cheeks whips hangars morning recipient paragraph fans helmsmen plexiglass garage output cliffs integrity shotlines addressees tubes retrieval vacuum workings sponges structure electrolyte swallows screen meetings saturday anthems whispers shaft blink try jump shows axis sunlight rig adherences space escort turbines fibers meeting commands courts",
+        "name": "Google Glass (WebM Video with Vorbis Audio)",
+        "uri": "http://demos.webmproject.org/exoplayer/glass_vp9_vorbis.webm"
+      },
+      {
+        "image": "http://dummyimage.com/270x446/7B8A55/2079FC",
+        "description": "salutes indication interference glows rations restaurant fracture wheel chases oscillations bangs buzzes legging challenges speaker farms arc photo preparations profession airs swallows labors shame aluminums",
+        "name": "Google Glass (VP9 in MP4/ISO-BMFF)",
+        "uri": "http://demos.webmproject.org/exoplayer/glass.mp4"
+      },
+      {
+        "image": "http://dummyimage.com/241x560/C1AF4E/D4327D",
+        "description": "miners displacements coordinations rice removal dope incline swimmers auditors hoof discontinuances pockets hilltops consequences winter milestone issue",
+        "name": "Google Glass DASH - VP9 and Opus",
+        "uri": "http://demos.webmproject.org/dash/201410/vp9_glass/manifest_vp9_opus.mpd"
+      },
+      {
+        "image": "http://dummyimage.com/642x241/291CA8/9A93E3",
+        "description": "looks official overflow reactors ears eddy fold colons apprenticeships decimals rug training tears extenuation swivel bulb wins peck surprises appropriation clip seasoning carriers curls airs monitors",
+        "name": "Big Buck Bunny (FLV Video)",
+        "uri": "http://vod.leasewebcdn.com/bbb.flv?ri=1024&rs=150&start=0"
+      }
+    ]
+  }
+]

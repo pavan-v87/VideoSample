@@ -3,6 +3,8 @@ package com.pavan.videosample;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.example.video.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
